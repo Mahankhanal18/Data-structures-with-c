@@ -1,0 +1,5 @@
+1. Create a search function to search an element in the array. Note: do not use globally declared  array 										
+2. Implement a C program to read and print a text. Also count number of characters, words and lines in the text. Use pointers										
+3. Design a C program to store details of COVID patients using structures. The details should include: Name, Age, Blood Group, Symptoms(Fever, Cold, Headache, cough, Body pain) and address										
+4. Demonstrate the usage of pointer to a structure which reads and prints details of an employee 	
+5. Write a C program to create a dynamic array and populate it by reading values from the user 

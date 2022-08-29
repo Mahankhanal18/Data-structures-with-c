@@ -1,0 +1,4 @@
+i. Develop a C program to illustrate recursion in finding factorial of a number
+ii. Develop a C program to illustrate recursion in printing Fibonacci series.
+iii. Find GCD of two integers using recursion
+iv. Find maximum element in an array using recursion

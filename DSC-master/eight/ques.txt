@@ -1,0 +1,4 @@
+Develop a program to implement following operations on a doubly linked list: i) insert before a given value ii) Delete the middle node
+
+
+Display the elements of the list in reverse order

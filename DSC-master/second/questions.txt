@@ -1,0 +1,4 @@
+Create a singly linked list inserting an element in the beginning and display the elements.
+
+
+Write a program to create a singly linked list by adding each node at the end and delete a node at the beginning.

@@ -1,0 +1,5 @@
+1.Perform stack operations using arrays
+PUSH,POP,DISPLAY
+PEEK - RETURNS TOP ELEMENT OF THE STACK
+
+2.Push, pop, display, peek and peep in linked list

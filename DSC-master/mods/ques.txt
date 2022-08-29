@@ -1,0 +1,6 @@
+Pallavi B7:31 PM
+1.Delete the maximum value in the list
+2.Concatenate two singly linked list
+3.Covert a decimal number to binary using Stacks
+4.Evaluate a postfix expression		
+5.Write a recursive solution for binary search algorithm
